@@ -7,3 +7,4 @@ The following inquiries and visualisations aim to be addressed by this analysis.
 4. Which ship mode is preferred?
 5. Which Area Is Most Lucrative?
 6. In which city are there the most sales?
+Link to data set : https://www.kaggle.com/datasets/aditisaxena20/superstore-sales-dataset
